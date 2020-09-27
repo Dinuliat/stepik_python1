@@ -19,23 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d656c7bf-e6b1-4e8a-85e3-96257081d22e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3/ex.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex.21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/ex.25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/ex.28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ex.23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xxx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/stepik_dina.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/stepik_dina.iml" afterDir="false" />
+    <list default="true" id="d656c7bf-e6b1-4e8a-85e3-96257081d22e" name="Default Changelist" comment="ыыы">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/ex.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/ex.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/ex.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/ex.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex.17.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex.17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex.18.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex.18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex.20.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex.20.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,12 +186,12 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.3" />
       <item itemvalue="Python.ex.20" />
       <item itemvalue="Python.ex.23" />
       <item itemvalue="Python.ex.25" />
       <item itemvalue="Python.ex.28" />
-      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
@@ -229,6 +214,14 @@
       <option name="presentableId" value="Default" />
       <updated>1580969110331</updated>
     </task>
+    <task id="LOCAL-00001" summary="ыыы">
+      <created>1601218548680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601218548680</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -281,6 +274,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ыыы" />
+    <option name="LAST_COMMIT_MESSAGE" value="ыыы" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1387" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595958862506">
